@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated  -->
+
+    <!-- Remotes -->
+    <remote name="Massatrio16" fetch="https://github.com/Massatrio16" clone-depth="1" />
+  
+
+    <!-- Removals -->
+    <!-- <remove-project name="LineageOS/android_hardware_qcom_audio" />
+    <remove-project name="LineageOS/android_hardware_qcom_media" /> -->
+
+    <!-- Repos -->
+    <project path="device/infinix/X657B" name="Device_X657B" remote="Massatrio16" revision="main" />
+    
+    <project path="vendor/infinix/X657B" name="Vendor_X657B" remote="Massatrio16" revision="main" />
+
+</manifest>
