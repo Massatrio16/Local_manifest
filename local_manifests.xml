@@ -13,6 +13,6 @@
     <!-- Repos -->
     <project path="device/infinix/X657B" name="Device_X657B" remote="Massatrio16" revision="main" />
     
-    <project path="vendor/infinix/X657B" name="Vendor_X657B" remote="Massatrio16" revision="main" />
+    <project path="vendor/infinix/X657B" name="Vendor_X657B" remote="Massatrio16" revision="lineage-18.1" />
 
 </manifest>
