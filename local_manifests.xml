@@ -15,4 +15,6 @@
     
     <project path="vendor/infinix/X657B" name="Vendor_X657B" remote="Massatrio16" revision="lineage-18.1" />
 
+    <project path="vendor/mediatek/ims" name="vendor_mediatek_ims" remote="Massatrio16" revision="eleven" />
+    
 </manifest>
